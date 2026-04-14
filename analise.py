@@ -4,7 +4,7 @@ import prince
 import matplotlib.pyplot as plt
 
 #%% Carregando os dados
-caminho = r'C:\Users\Felipe\Desktop\consultoria juridica\dados_consultoria_juridica.csv'
+caminho = 'dados_consultoria_juridica.csv'
 df = pd.read_csv(caminho)
 
 
